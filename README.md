@@ -43,7 +43,7 @@ To get this project running on your local machine:
 
 ## 📸 Screenshots
 *(Hint: Upload your screenshots to an 'img' folder and link them here)*
-`[Insert Image Placeholder]`
+`[image error]`
 
 ---
 
