@@ -42,7 +42,6 @@ To get this project running on your local machine:
 4.  **Build:** Generate the `.apk` and enjoy your personal AI assistant!
 
 ## 📸 Screenshots
-*(Hint: Upload your screenshots to an 'img' folder and link them here)*
 `[image error]`
 
 ---
